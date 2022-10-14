@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<equipo nombre="Fc Barcelona">
+
+    <jugador nombre="Pedri">
+        <caracteristicas posicion="Centrocampista" dorsal="8" nacionalidad="Española" edad="19"></caracteristicas>
+        <rendimiento minTotal="120" golesTotal="4" convocado="2" temporada="2022/2023"></rendimiento>
+        <jornada minutos="90" goles="2" convocado="si" temporada="2022/2023"></jornada>
+        <jornada minutos="30" goles="1" convocado="si" temporada="2022/2023"></jornada>
+    </jugador>
+</equipo>
